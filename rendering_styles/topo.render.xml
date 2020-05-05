@@ -62,6 +62,10 @@
 		<case color="#AA7A0079" strokeWidth="3" pathEffect="5_4"/>
 	</renderingAttribute>
 
+	<renderingAttribute name="viewAngleTool">
+		<case color="#2060C0" strokeWidth="2" color_2="#00AAFA" strokeWidth_2="2" pathEffect_2="5_4" color_3="#FA00AA" strokeWidth_3="2" pathEffect_3="5_4"/>
+	</renderingAttribute>
+
 	<renderingAttribute name="shadowRendering">
 	<!-- 0 - no shadow, 1 - one step, 2 - blur shadow, 3 - solid shadow -->
 		<!-- next line ensures bridges stand out ok -->

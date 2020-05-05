@@ -236,6 +236,11 @@
 		<apply_if nightMode="true" color="#ff8800"/>
 	</renderingAttribute>
 
+	<renderingAttribute name="viewAngleTool">
+		<case color="#2060C0" strokeWidth="2" color_2="#009f3f" strokeWidth_2="2" pathEffect_2="5_3" color_3="#e02d00" strokeWidth_3="2" pathEffect_3="5_3"/>
+		<apply_if nightMode="true" color_2="#88ff00" color_3="#ff8800"/>
+	</renderingAttribute>
+
 	<renderingAttribute name="markerGuideline">
 		<case color="#555555" strokeWidth="2" pathEffect="5_3"/>
 		<apply_if nightMode="true" color="#55ff55" color_2="#aa66ff"/>
